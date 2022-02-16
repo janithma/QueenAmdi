@@ -23,7 +23,7 @@
             "DELETED": "*✅ Plugin successfully deleted!*"
         },
         "helper" : {
-            "HELP_DESC" : "⎔════════════════⎔\n       ▷ 📚 Self Support Kit ◁\n⎔════════════════⎔",
+            "HELP_DESC" : "⎔════════════════⎔\n       ▷ 🌎 your Support Kit ◁\n⎔════════════════⎔",
             "SELECT" : "Click Here",
             "DESC" : "Self Support Kit",
             "ALOGO" : "*💠  How to set alive logo without going heroku  💠* \n\n❇️ Put the photo that you wants to set as the alive logo\n❇️ Mention that photo and type *.setalive* \n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
@@ -249,13 +249,13 @@
             "LİNK": "Please enter a link!",
             "MP4TOAUDİO_DESC": "Convert mp4 into mp3.",
             "MP4TOAUDİO_NEEDREPLY": "*Please reply to a video!*",
-            "MP4TOAUDİO": "\n```🔄 Converting mp4 to mp3..```\n",
+            "MP4TOAUDİO": "\n```⚡ Converting mp4 to mp3..```\n",
             "STİCKER_DESC": "Convert sticker into an image.",
             "STİCKER_NEEDREPLY": "*Please reply to a sticker!*",
-            "STİCKER": "\n```🔄 Converting sticker into image..```\n",
+            "STİCKER": "\n```⚡ Converting sticker into image..```\n",
             "IMG_DESC": "Download 5 images from Google.",
             "NEED_WORDS": "```Need words to search!```",
-            "IMG": "⬆️ Uploading ```{}``` photos of ```{} ```",
+            "IMG": "🧑‍🍳 Uploading ```{}``` photos of ```{} ```",
             "IMG_ERR": "*Sorry, I can't find that.*",
             "OCR_DESC": "Recognizes  the text from a image.",
             "NEED_IMG": "Please reply to a image with text.",
@@ -360,16 +360,16 @@
         "pinterest": {
             "PIN_DESC": "Download 5 images from pinterest.",
             "NEED_WORDS": "```Need words to search!```",
-            "DOWNLOAD": "🔄️ Downloading images...",
-            "UPLOAD": "⬆️ Uploading images...",
+            "DOWNLOAD": "🧜‍♀️ Downloading images...",
+            "UPLOAD": "🌍 Uploading images...",
             "ERROR": "```Sorry, I could not find images. 😖```"
         },
         "playstore": {
             "APK_DESC": "Download APK files.",
             "APK_NEED": "Please enter a playstore app link.\nYou can search playstore by *.getpack* command.",
             "NO_APK": "Please enter a valid playstore app link.\nYou can search playstore by *.getpack* command.",
-            "APK_DW": "\n🔄 Downloading your APK...\n",
-            "APK_UP": "\n🔄 Uploading your APK...\n",
+            "APK_DW": "\n😈 Downloading your APK...\n",
+            "APK_UP": "\n😊 Uploading your APK...\n",
             "APK_D": "*▸ 📚APK Details📚 ◂*\n\n",
             "APK_N": "💻 APK Name : ",
             "APK_DEV": "\n👨🏻‍💻 Developer : ",
@@ -459,10 +459,10 @@
         "sticker": {
             "STICKER_DESC": "Make stickers to your images. Reply to an image.",
             "NEED_REPLY": "*Please reply an image!*",
-            "DOWNLOADING": "\n```🔄 Downloading media and making sticker...```\n",
+            "DOWNLOADING": "\n```🌎 Downloading media and making sticker...```\n",
             "ANI_STICK": "Converts animated stickers to video.",
             "ANI_REPLY": "*Please reply an animated sticker*",
-            "ANIMATE": "\n```🔄 Converting Animated Sticker To Video..```\n"
+            "ANIMATE": "\n```🕠 Converting Animated Sticker To Video..```\n"
         },
         "system_stats": {
             "ALIVE_DESC": "Check bot online or not",
@@ -496,11 +496,11 @@
             "NOT": "```User not found!```",
             "TIKTOK_DESC": "Download videos/music from Tiktok",
             "NEED_WORD": "Must Enter a tiktok link!",
-            "DLOAD_TK": "\n```🔄 Your tiktok is downloading...```\n",
-            "UPLOADING_TK": "\n```🔂 Your tiktok is uploading...```\n",
+            "DLOAD_TK": "\n```⚡ Your tiktok is downloading...```\n",
+            "UPLOADING_TK": "\n```⚡ Your tiktok is uploading...```\n",
             "INVALID_TK": "*I could not find anything :(*",
-            "DLOAD_TKM": "\n```🔄 Your music is downloading...```\n",
-            "UPLOADING_TKM": "\n```🔂 Your music is uploading...```\n"
+            "DLOAD_TKM": "\n```🌍 Your music is downloading...```\n",
+            "UPLOADING_TKM": "\n```🧜‍♀️ Your music is uploading...```\n"
         },
         "unlimiteddata":{
             "ehi_desc": "Make your data packages to unlimited data packages.\n*(Only for Sri Lankan Users)*",
@@ -511,7 +511,7 @@
         "unvoice": {
             "UV_DESC": "Convert mp3 into a WA voice message",
             "UV_REPLY": "*Please reply to a mp3!*",
-            "UV_PROC": "\n```🔄 Recording the audio..```\n"
+            "UV_PROC": "\n```⚡ Recording the audio..```\n"
         },
         "updater": {
             "UPDATER_DESC": "Check for updates.",
